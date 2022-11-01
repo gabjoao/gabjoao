@@ -10,7 +10,7 @@ Studying to be able to work with it in the future, who knows?
 Here are some projects I made for study and fun.
 
 - 🌱 I’m currently learning: **Java**
-- 📫 How to reach me: **On twitter's DM or e-mail (both in bio)**
+- 📫 How to reach me: **On twitter's DM or e-mail: joao.25.ribeiro01@gmail.com**
 - 😄 Pronouns: **He / him**
 
 <h3 align="left">Social links:</h3>
