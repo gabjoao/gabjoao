@@ -1,6 +1,6 @@
 ### Hi there <img height = "25" src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, I'm João Gabriel
 #### A brazilian high school student.
-![A brazilian high school student](https://pbs.twimg.com/profile_banners/795289452516147201/1651699295/1500x500)
+![A brazilian high school student](https://pbs.twimg.com/profile_images/1521962912763592704/aCmf4-Tv_400x400.jpg)
 
 <p align="left"> <a href="https://twitter.com/gabjoao25" target="blank"><img src="https://img.shields.io/twitter/follow/gabjoao25?logo=twitter&style=for-the-badge" alt="gabjoao25" /></a> </p>
 
@@ -12,6 +12,7 @@ Here are some projects I made for study and fun.
 - 🌱 I’m currently learning: **Java**
 - 📫 How to reach me: **On twitter's DM or e-mail: joao.25.ribeiro01@gmail.com**
 - 😄 Pronouns: **He / him**
+- 🐈 Fun Fact: **I love cats!**
 
 <h3 align="left">Social links:</h3>
 <p align="left">
