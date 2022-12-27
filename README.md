@@ -16,7 +16,6 @@ Here are some projects I made for study and fun.
 
 <h3 align="left">Social links:</h3>
 <p align="left">
-<a href="https://twitter.com/gabjoao25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabjoao25" height="30" width="40" /></a>
 <a href="https://instagram.com/gabjoaoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabjoaoz" height="30" width="40" /></a>
 </p>
 
