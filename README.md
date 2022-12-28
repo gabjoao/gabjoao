@@ -1,8 +1,7 @@
 ### Hi there <img height = "25" src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, I'm João Gabriel
 #### A brazilian high school student.
-![A brazilian high school student](https://pbs.twimg.com/profile_images/1521962912763592704/aCmf4-Tv_400x400.jpg)
+![A brazilian high school student](https://i.pinimg.com/736x/85/e2/52/85e252c562d58c8e743af09de056ca6e.jpg)
 
-<p align="left"> <a href="https://twitter.com/gabjoao25" target="blank"><img src="https://img.shields.io/twitter/follow/gabjoao25?logo=twitter&style=for-the-badge" alt="gabjoao25" /></a> </p>
 
 
 Code for fun, for while.  
