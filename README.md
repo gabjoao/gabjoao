@@ -1,24 +1,39 @@
-### Hi there <img height = "25" src = "https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif">, I'm João Gabriel
-#### A brazilian high school student.
-![A brazilian high school student](https://i.pinimg.com/736x/85/e2/52/85e252c562d58c8e743af09de056ca6e.jpg)
+## Sobre mim
 
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando ADS no IFPR.
+- 💼 Trabalhando como estagiário no TJPR e com desenvolvimento na Forcetech Jr. Soluções.
+- 🌱 Aprendendo mais sobre Delphi, Arduino, React.Js.
 
+## Minhas Skills
 
-Code for fun, for while.  
-Studying to be able to work with it in the future, who knows?
-Here are some projects I made for study and fun.
+**Aplicações e dados**
 
-- 🌱 I’m currently learning: **Java**
-- 📫 How to reach me: **On twitter's DM or e-mail: joao.25.ribeiro01@gmail.com**
-- 😄 Pronouns: **He / him**
-- 🐈 Fun Fact: **I love cats!**
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<h3 align="left">Social links:</h3>
-<p align="left">
-<a href="https://instagram.com/gabjoaoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabjoaoz" height="30" width="40" /></a>
-</p>
+**Utilidades**
 
-<h3 align="left">The basic of:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabjoao&show_icons=true&locale=en&layout=compact" alt="gabjoao" /></p>
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/gabjoao" title="Perfil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabjoao&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+[![Linkedin](https://img.shields.io/badge/-gabjoao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabjoao/)](https://www.linkedin.com/in/gabjoao/)
+[![Gmail Badge](https://img.shields.io/badge/-joao.25.ribeiro01@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao.25.ribeiro01@gmail.com)](mailto:joao.25.ribeiro01@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/gabjoao?label=follow&style=social)](https://github.com/gabjoao)
